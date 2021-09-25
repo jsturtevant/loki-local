@@ -1,0 +1,22 @@
+
+E0930 20:21:30.902654    5020 handler.go:321] HTTP InternalServerError serving /stats/summary: Internal Error: failed to list pod stats: failed to list all container       
+stats: rpc error: code = Unknown desc = container 46527a779618ed4197babc79889886b540f352d72503656eda3c37c2f247c4a0 encountered an error during Properties: failure in a     
+Windows system call: The requested virtual machine or container operation is not valid in the current state. (0xc0370105)
+E0930 20:21:30.983515    5020 handler.go:321] HTTP InternalServerError serving /stats/summary: Internal Error: failed to list pod stats: failed to list all container       
+stats: rpc error: code = Unknown desc = container 46527a779618ed4197babc79889886b540f352d72503656eda3c37c2f247c4a0 encountered an error during Properties: failure in a     
+Windows system call: The requested virtual machine or container operation is not valid in the current state. (0xc0370105)
+E0930 20:21:31.079794    5020 handler.go:321] HTTP InternalServerError serving /stats/summary: Internal Error: failed to list pod stats: failed to list all container       
+stats: rpc error: code = Unknown desc = container 46527a779618ed4197babc79889886b540f352d72503656eda3c37c2f247c4a0 encountered an error during Properties: failure in a     
+Windows system call: The requested virtual machine or container operation is not valid in the current state. (0xc0370105)
+E0930 20:21:31.145063    5020 handler.go:321] HTTP InternalServerError serving /stats/summary: Internal Error: failed to list pod stats: failed to list all container       
+stats: rpc error: code = Unknown desc = container 46527a779618ed4197babc79889886b540f352d72503656eda3c37c2f247c4a0 encountered an error during Properties: failure in a     
+Windows system call: The requested virtual machine or container operation is not valid in the current state. (0xc0370105)
+E0930 20:21:31.218007    5020 handler.go:321] HTTP InternalServerError serving /stats/summary: Internal Error: failed to list pod stats: failed to list all container       
+stats: rpc error: code = Unknown desc = container 46527a779618ed4197babc79889886b540f352d72503656eda3c37c2f247c4a0 encountered an error during Properties: failure in a     
+Windows system call: The requested virtual machine or container operation is not valid in the current state. (0xc0370105)
+E0930 20:21:31.284007    5020 handler.go:321] HTTP InternalServerError serving /stats/summary: Internal Error: failed to list pod stats: failed to list all container       
+stats: rpc error: code = Unknown desc = container 46527a779618ed4197babc79889886b540f352d72503656eda3c37c2f247c4a0 encountered an error during Properties: failure in a     
+Windows system call: The requested virtual machine or container operation is not valid in the current state. (0xc0370105)
+E0930 20:21:34.026254    5020 handler.go:321] HTTP InternalServerError serving /stats/summary: Internal Error: failed to list pod stats: failed to list all container       
+stats: rpc error: code = Unknown desc = container d8a566cef3d9ed97442c37ee5f26fb4ff51aac19ad9c1b4bb6caf84acaf0afa5 encountered an error during Properties: failure in a     
+Windows system call: Access is denied. (0x5)
